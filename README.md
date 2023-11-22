@@ -1,6 +1,4 @@
 
-
-```markdown
 # Thể Dục, Thể Thao và Chăm Sóc Sức Khỏe
 
 Đây là dự án trang web về thể dục, thể thao và chăm sóc sức khỏe, được tạo ra để lưu trữ thông tin của người dùng quan tâm đến lĩnh vực này.
